@@ -1,0 +1,27 @@
+body {
+    background-color: darksalmon;
+    font-family: Helvetica, Verdana, sans-serif;
+  }
+  h1 {
+    color:palevioletred ;
+    font-size: 3em;
+    font-style: italic; 
+  }
+  h2 {
+    color: pink;
+    font-size: 2em;
+    text-decoration: underline; 
+  }
+
+  ol{
+      background-color: lavenderblush;
+      color:chocolate;
+  }
+  ul{
+    background-color: burlywood;
+    color:blueviolet;
+  }
+  p {
+    color:blueviolet;
+    font-weight: bold;
+  }
